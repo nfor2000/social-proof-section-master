@@ -18,7 +18,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ## Overview
 
 ### Screenshot
-![FireShot Capture 005 - Frontend Mentor - Social proof section - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220189001-9bed699a-6c5e-4867-b9a2-2560d75![FireShot Capture 007 - Frontend Mentor - Social proof section - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220189034-daf7afd1-9b2d-45da-88f9-5fc190dde3e5.png)
+![FireShot Capture 005 - Frontend Mentor - Social proof section - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220189001-9bed699a-6c5e-4867-b9a2-2560d75
+![FireShot Capture 007 - Frontend Mentor - Social proof section - 127 0 0 1](https://user-images.githubusercontent.com/124421807/220189034-daf7afd1-9b2d-45da-88f9-5fc190dde3e5.png)
 c12de.png)
 
 
